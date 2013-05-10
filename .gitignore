@@ -33,5 +33,6 @@ nbproject
 .svn
 .CVS
 .idea
+bootstrap
 node_modules
 dist
